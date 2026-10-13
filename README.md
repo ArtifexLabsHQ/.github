@@ -21,7 +21,7 @@ Welcome to **Artifex Labs**—my personal engineering workspace and hub for clou
 
 ### ✍️ Writing & Articles
 I write technical tutorials, deep dives, and documentation over on my Medium publication:
-👉 **[Artifex Labs on Medium](https://medium.com/@artifexlabs)** *(Update with your exact Medium link)*
+👉 **[Artifex Labs on Medium](https://medium.com/@artifexlabs)**
 
 ---
 
